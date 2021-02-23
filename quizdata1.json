@@ -48,5 +48,23 @@
             "Literature, Peace and Economics","All of the above"
         ],
         "answer":"All of the above"
+    },{
+        "number": 6,
+        "question":"Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was NOT one of them?",
+        "options":[
+            "Tubby",
+            "Stodge",
+            "Helium Bat",
+            "Stumpy"
+        ],
+        "answer":"Stumpy"
+    },{
+        "number":7,
+        "question":"Which was the 1st non Test playing country to beat India in an international match?",
+        "options":[
+            "Canada",
+            "Sri Lanka","Zimbabwe","East Africa"
+        ],
+        "answer":"Sri Lanka"
     }
 ]
