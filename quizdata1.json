@@ -66,5 +66,12 @@
             "Sri Lanka","Zimbabwe","East Africa"
         ],
         "answer":"Sri Lanka"
+    },{
+	"number":8,
+	"question":"question",
+	"options":[
+		"option1","option2","option3","option4"
+	],
+	"answer":"option1"
     }
 ]
